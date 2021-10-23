@@ -1,1 +1,1 @@
-# GuessIT and Enjoy
+# GuessGame and Enjoy
